@@ -3,6 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/kutils_dart_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'package:kutils_dart/src/kutils_dart_base.dart';
+export 'package:kutils_dart/src/periodic_timer.dart';
